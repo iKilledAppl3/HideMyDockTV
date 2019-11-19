@@ -1,0 +1,10 @@
+{
+	Filter = {
+		Bundles = (
+			"com.apple.HeadBoardUI",
+			"com.apple.HeadBoard",
+			"com.apple.PineBoardServices",
+			"com.apple.PineBoard",
+		);
+	};
+}
