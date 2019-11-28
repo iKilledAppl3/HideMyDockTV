@@ -1,10 +1,10 @@
 Package: com.ikilledappl3.hidemydocktv
 Name: HideMyDockTV
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>=13.0)
 Architecture: appletvos-arm64
 Description: Hide the dock from tvOS.
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Section: Tweaks
-Version: 1.0-1
-Installed-Size: 56
+Version: 1.0.1-1
+Installed-Size: 404

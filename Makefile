@@ -1,5 +1,5 @@
 ARCHS = arm64
-SDK = 12.4
+SYSROOT = $(THEOS)/sdks/AppleTVOS12.4.sdk
 FINALPACKAGE = 1
 THEOS_DEVICE_IP = 192.168.1.211
 
@@ -14,3 +14,5 @@ include $(THEOS_MAKE_PATH)/tweak.mk
 
 after-install::
 	install.exec "killall -9 backboardd"
+SUBPROJECTS += hidemydocktv
+include $(THEOS_MAKE_PATH)/aggregate.mk
