@@ -110,6 +110,8 @@ kEnabled = [TSKSettingItem toggleItemWithTitle:@"Enable Tweak" description:@"Ena
     UIImage *icon = [UIImage imageWithContentsOfFile:imagePath];
     if (icon != nil) {
         TSKVibrantImageView *imageView = [[TSKVibrantImageView alloc] initWithImage:icon];
+        imageView.clipsToBounds = YES;
+        imageView.layer.cornerRadius = 5.0;
         [item setContentView:imageView];
         
     }
