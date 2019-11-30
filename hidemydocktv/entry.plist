@@ -11,11 +11,13 @@
 		<key>detail</key>
 		<string>iKARootListController</string>
 		<key>icon</key>
-		<string>icon.png</string>
+		<string>HideMyDockTV.png</string>
 		<key>isController</key>
 		<true/>
 		<key>label</key>
 		<string>HideMyDockTV</string>
+		<key>description</key>
+		<string>I&apos;m a bit shy... but once you get to know me I&apos;m all yours ;).</string>
 	</dict>
 </dict>
 </plist>
