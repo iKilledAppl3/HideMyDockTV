@@ -20,16 +20,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to God (you are the true king), nitoTV, JoshTV, all the checkra1n members, and DylanDuff3 
-
-## Preferences 
-You need to have the patched AppleTVOS.sdk in your theos sdk path.- see [nitoTV SDKs](https://github.com/lechium/sdks) for more details.
-
-## Pre-Requisties 
-You need the TVSettingsKit and TVSettings headers in your theos include folder.
-All the preferences for tvOS are programatic and can't be modifed in the plist file of the tweaks' preferences. 
-Need help? Contact me on Twitter!
+ Thanks to God (you are the true king), nitoTV, JoshTV, all the checkra1n members, and DylanDuff3 
 
 ## Write Up 
 This is how to setup and make a tweak for tvOS. 
-Please read the Wiki for more information.
+Please read the [Wiki](https://github.com/iKilledAppl3/HideMyDockTV/wiki) for more information.
