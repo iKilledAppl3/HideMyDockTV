@@ -1,7 +1,6 @@
-/Users/ikilledappl3/tweaks/hidemydocktv/.theos/obj/arm64/iKARootListController.m.34100c11.o: \
+/Users/ikilledappl3/tweaks/hidemydocktv/.theos/obj/appletv/arm64/iKARootListController.m.cb1b9fd7.o: \
   iKARootListController.m /Users/ikilledappl3/theos/Prefix.pch \
   /Users/ikilledappl3/theos/vendor/include/_Prefix/BackwardsCompat.h \
-  /Users/ikilledappl3/theos/vendor/include/_Prefix/IOSMacros.h \
   /Users/ikilledappl3/theos/vendor/include/HBLog.h \
   /Users/ikilledappl3/theos/vendor/include/CoreFoundation/CFLogUtilities.h \
   iKARootListController.h Common.h \
@@ -20,8 +19,6 @@
 /Users/ikilledappl3/theos/Prefix.pch:
 
 /Users/ikilledappl3/theos/vendor/include/_Prefix/BackwardsCompat.h:
-
-/Users/ikilledappl3/theos/vendor/include/_Prefix/IOSMacros.h:
 
 /Users/ikilledappl3/theos/vendor/include/HBLog.h:
 

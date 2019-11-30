@@ -24,7 +24,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Preferences 
 You need to have the patched AppleTVOS.sdk in your theos sdk path.- see [nitoTV SDKs](https://github.com/lechium/sdks) for more details.
-You need the TVSettingKit and TVSettings headers in your theos include folder.
+
+## Pre-Requisties 
+You need the TVSettingsKit and TVSettings headers in your theos include folder.
 All the preferences for tvOS are programatic and can't be modifed in the plist file of the tweaks' preferences. 
 Need help? Contact me on Twitter!
-I will do a better write-up on a later date!
+
+## Write Up 
+This is how to setup and make a tweak for tvOS. 
+Please read the Wiki for more information.

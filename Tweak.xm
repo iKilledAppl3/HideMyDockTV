@@ -2,17 +2,7 @@
 // Pretty simple code :P
 // Anyways here have fun!
 
-@interface TVSUIOuterShadowView : UIImageView
-@end
-
-@interface HBUIMainAppGridDockView : UICollectionReusableView {
-	TVSUIOuterShadowView *_shadowView;
-}
-@end
-
-BOOL kEnabled;
-
-#define PLIST_PATH @"/var/mobile/Library/Preferences/com.ikilledappl3.hidemydocktv.plist"
+#import "HideMyDockTV_header.h"
 
 // This is the dock view :P 
 %hook HBUIMainAppGridDockView

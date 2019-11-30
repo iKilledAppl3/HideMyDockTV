@@ -1,4 +1,5 @@
 ARCHS = arm64
+TARGET = appletv:clang
 SYSROOT = $(THEOS)/sdks/AppleTVOS12.4.sdk
 FINALPACKAGE = 1
 THEOS_DEVICE_IP = 192.168.1.211
